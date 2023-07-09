@@ -69,4 +69,14 @@
     
     
 }
-
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
